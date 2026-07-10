@@ -160,7 +160,6 @@ This app is built to work seamlessly both locally (`.env`) and when deployed (`s
 ## 📄 License
 
 This project was built as part of the **Phitron** curriculum. Feel free to fork, learn from, and build upon it!
-
 ---
 
 ⭐ If you found this project helpful, consider giving it a star!
